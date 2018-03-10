@@ -7,7 +7,7 @@ git checkout master
 git pull
 
 #Package
-gulp
+npm run build --env=prod
 
 #Git commit and save after build
 git add .
