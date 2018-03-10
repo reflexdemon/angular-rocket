@@ -10,9 +10,9 @@ git pull
 npm run build --env=prod
 
 # #Git commit and save after build
-# git add .
-# git commit -am "Publish new artifacts"
-# git push
+git add .
+git commit -am "Publish new artifacts"
+git push
 
 
 # # Delete Local Branch
