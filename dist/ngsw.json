@@ -22,6 +22,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/CNAME",
         "/assets/ngx-rocket-logo.png"
       ],
       "patterns": []
@@ -30,8 +31,9 @@
   "dataGroups": [],
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/CNAME": "1bd9fbf61b23a50d35f1b71bbdae5bfe4fb163ef",
     "/main.4bcf2dcf66680e437ac9.bundle.js": "904a052d022a375fd5246cd81725ffb23f98d2ec",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
     "/polyfills.6632764bf1554842312c.bundle.js": "86bfd4ce846c8d1a2339c814a0787103bab40309",
     "/styles.8214eb1655da67c76bfc.bundle.css": "61da7a1be66835e8d2bf8b875298ced7b0b93fb9",
     "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
