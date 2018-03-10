@@ -22,11 +22,11 @@ git branch -D gh-pages
 git push origin :gh-pages
 
 #Create branch gh-pages
-git checkout -b gh-pages
+git subtree push --prefix dist/ origin gh-pages
 
-#Publish to remote
-git push --set-upstream origin gh-pages
+# #Publish to remote
+# git push --set-upstream origin gh-pages
 
 
-# Back to master
-git checkout master
+# # Back to master
+# git checkout master
