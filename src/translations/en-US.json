@@ -1,8 +1,9 @@
 {
-  "APP_NAME": "angular rocket",
+  "APP_NAME": "First PWA",
   "About": "About",
   "Hello world !": "Hello world !",
   "Home": "Home",
+  "Welcome": "This is my First PWA. I am very excited to be able to make something very useful and it is very simple.",
   "Logged in as": "Logged in as",
   "Login": "Login",
   "Logout": "Logout",

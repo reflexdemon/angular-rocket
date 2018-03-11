@@ -2,7 +2,7 @@
   "generator-ngx-rocket": {
     "version": "4.0.0",
     "props": {
-      "appName": "angular rocket",
+      "appName": "VPV Progressive Web Application",
       "target": [
         "web"
       ],
@@ -11,7 +11,7 @@
       "layout": "side-menu",
       "auth": true,
       "lazy": false,
-      "projectName": "angular-rocket",
+      "projectName": "progressive-web-app",
       "packageManager": "npm",
       "mobile": []
     }

@@ -1,10 +1,10 @@
 {
-  "name": "angular rocket",
-  "short_name": "angular rocket",
+  "name": "First Progressive Web Application",
+  "short_name": "First PWA",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
-    "src": "assets/ngx-rocket-logo.png",
+    "src": "assets/vpv-progressive-logo.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
