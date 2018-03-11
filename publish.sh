@@ -6,12 +6,16 @@ git checkout master
 # Ensure you are doing a pull
 git pull
 
+#Clean the dist
+rm -rf dist/
+
 #Package
 npm run build --env=prod
 
 # #Git commit and save after build
-git add .
-git commit -am "Publish new artifacts"
+DATE_AND_TIME="$(date -u "+%Y-%m-%d %H:%M:%S")"
+git add dist/
+git commit -am "Publish new artifacts as of $DATE_AND_TIME"
 git push
 
 
