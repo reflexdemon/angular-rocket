@@ -1,4 +1,4 @@
-# angular rocket
+# VPV Progressive Web Application
 
 Welcome to the project documentation!
 

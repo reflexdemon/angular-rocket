@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "angular-rocket"
+    "name": "vpv-progressive-web-application"
   },
   "apps": [
     {
@@ -11,8 +11,7 @@
         "assets",
         "favicon.ico",
         "manifest.json",
-        "robots.txt",
-        "CNAME"
+        "robots.txt"
       ],
       "index": "index.html",
       "main": "main.ts",

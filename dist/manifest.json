@@ -1,10 +1,10 @@
 {
-  "name": "First Progressive Web Application",
-  "short_name": "First PWA",
+  "name": "VPV Progressive Web Application",
+  "short_name": "VPV Progressive Web Application",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
-    "src": "assets/vpv-progressive-logo.png",
+    "src": "assets/ngx-rocket-logo.png",
     "sizes": "512x512",
     "type": "image/png"
   }],

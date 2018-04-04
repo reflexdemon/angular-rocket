@@ -1,6 +1,6 @@
 {
   "generator-ngx-rocket": {
-    "version": "4.0.0",
+    "version": "4.2.0",
     "props": {
       "appName": "VPV Progressive Web Application",
       "target": [
@@ -11,9 +11,12 @@
       "layout": "side-menu",
       "auth": true,
       "lazy": false,
-      "projectName": "progressive-web-app",
+      "projectName": "vpv-progressive-web-application",
       "packageManager": "npm",
-      "mobile": []
+      "mobile": [],
+      "angulartics": true,
+      "analyticsProvider": "ga",
+      "googleAnalyticsAccount": "UA-60801328-6"
     }
   }
 }
