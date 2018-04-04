@@ -1,0 +1,43 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/manifest.json",
+        "/inline.318b50c57b4eba3d437b.bundle.js",
+        "/main.6c471d99a84c397d2d79.bundle.js",
+        "/polyfills.6632764bf1554842312c.bundle.js",
+        "/styles.8214eb1655da67c76bfc.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/ngx-rocket-logo.png",
+        "/assets/vpv-progressive-logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/main.6c471d99a84c397d2d79.bundle.js": "76e3784dc179a6d22493267d95c2052dcdd0216c",
+    "/assets/vpv-progressive-logo.png": "7e22cc3ee6c844afb7271b4645bd1003b00fdfad",
+    "/polyfills.6632764bf1554842312c.bundle.js": "86bfd4ce846c8d1a2339c814a0787103bab40309",
+    "/styles.8214eb1655da67c76bfc.bundle.css": "61da7a1be66835e8d2bf8b875298ced7b0b93fb9",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "49144755d33cba6570a9ad298cafd68a46fe93e5",
+    "/manifest.json": "d62f59d94de3f12b057835d3fab1b3a3ecdfda6b"
+  }
+}
